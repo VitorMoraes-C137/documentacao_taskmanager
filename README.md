@@ -25,7 +25,7 @@
 
 ##como resolvi?
 
--confesso que pedi ajuda para um amigo mais experiete, ele me mostrou o seu código, eu interpretei e vi o que tava estranho
+-confesso que pedi ajuda para um amigo mais experiente, ele me mostrou o seu código, eu interpretei e vi o que tava estranho
 - alguns comandos estavam fora de lugar além do "break" 
 
 #aluno
